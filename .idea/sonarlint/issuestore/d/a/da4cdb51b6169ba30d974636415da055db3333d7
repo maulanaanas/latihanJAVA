@@ -1,0 +1,7 @@
+
+
+java:S1488"]Immediately return this expression instead of assigning it to the temporary variable "hasil".(õÑ¯üÿÿÿÿ8·¬“Ê¢0
+Z
+java:S1117"8Rename "hasil" which hides the field declared at line 6.(õÑ¯üÿÿÿÿ8¿¬“Ê¢0
+K
+java:S1068")Remove this unused "hasil" private field.(•¢¡Îûÿÿÿÿ8Á¬“Ê¢0

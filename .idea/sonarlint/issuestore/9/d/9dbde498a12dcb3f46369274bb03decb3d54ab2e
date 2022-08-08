@@ -1,0 +1,9 @@
+
+r
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "luas".(†î´†
+X
+java:S2184"BCast one of the operands of this division operation to a "double".(†î´†
+M
+java:S1117"7Rename "luas" which hides the field declared at line 6.(†î´†
+C
+java:S1068"(Remove this unused "luas" private field.(’Íû‘úÿÿÿÿ
