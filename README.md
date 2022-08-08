@@ -1,0 +1,2 @@
+# latihanJAVA
+Bismillah khatam JAVA
