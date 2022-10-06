@@ -1,2 +1,2 @@
 # latihanJAVA
-Bismillah khatam JAVA
+Latihan OOP
